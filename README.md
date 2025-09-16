@@ -1,4 +1,4 @@
-    # Brain Tumor classification using Resnet50 and a custom CNN model (Keras and Pytorch)
+# Brain Tumor classification using Resnet50 and a custom CNN model (Keras and Pytorch)
 
 The goal of this project is to classify brain tumors from MRI images. I combine the power of ResNet50 (a pretrained model on ImageNet) with a custom CNN to leverage both transfer learning and feature extraction from this specific dataset
 
